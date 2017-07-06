@@ -1,2 +1,0 @@
-# JavaExample
-Learning java
